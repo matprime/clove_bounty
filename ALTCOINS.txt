@@ -297,5 +297,4 @@ https://www.github.com/zeitcoin/zeitcoin/blob/master/src/net.cpp
 https://www.github.com/zennies/zennies/blob/master/src/chainparams.cpp
 https://www.github.com/zetacoin/zetacoin/blob/master/src/chainparams.cpp
 https://www.github.com/zoinofficial/zoin/blob/master/src/chainparams.cpp
-https://www.github.com/zulufourm1ke/theresamaycoin-v1.0.1.0/blob/master/src/net.cpp
 https://www.github.com/zurcoin/zurcoin/blob/master/src/chainparams.cp
